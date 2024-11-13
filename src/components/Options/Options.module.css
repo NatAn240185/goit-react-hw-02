@@ -1,0 +1,12 @@
+.optionsList {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+  }
+  
+  .options {
+    display: flex;
+    flex-direction: row;
+    column-gap: 6px;
+    margin-bottom: 20px;
+  }
